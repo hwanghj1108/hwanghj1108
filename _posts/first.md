@@ -1,7 +1,10 @@
 ---
 title:  "github 블로그 생성"
 search: false
----
+categories: 
+  - Jekyll
+last_modified_at: 2019-11-21T22:05:34-05:00
+------
 
 github 블로그 생성
 
