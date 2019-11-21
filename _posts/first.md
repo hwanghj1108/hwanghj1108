@@ -1,3 +1,14 @@
+---
+title:  "github 블로그 생성"
+search: false
+---
+
+github 블로그 생성
+
+```yaml
+search: false
+```
+
 1.github 가입
 1.저장소(Repository) 생성 : yourname.github.io
 1.테마 찾기
